@@ -8,7 +8,7 @@ Web security is crucial in today's interconnected digital world. This essay expl
 ### 1. Implement HTTPS
 * Use SSL/TLS certificates to encrypt data in transit
 * Protects against man-in-the-middle attacks
-* Builds trust with users
+* Builds trust with useRs
 
 ### 2. Input Validation and Sanitization
 * Validate all user inputs on both client and server sides
